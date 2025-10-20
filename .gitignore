@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Vivado
+*.runs/
+*.cache/
+*.log
+*.jou
+*.xpr
+*.data/
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.pdf
+
+# OS clutter
+.DS_Store
+Thumbs.db
