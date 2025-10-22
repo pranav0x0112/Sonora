@@ -19,3 +19,26 @@ __pycache__/
 # OS clutter
 .DS_Store
 Thumbs.db
+
+# Bluespec / Bluesim generated files
+build/
+*.ba
+*.o
+*.a
+*.so
+*.dll
+*.dylib
+*.pb
+*.cpp
+*.cxx
+*.cc
+*.c
+*.hpp
+*.h
+__bsv*
+bsc-generated*/
+
+# Temporary and editor files
+*~
+.vscode/
+.idea/
